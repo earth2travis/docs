@@ -17,7 +17,7 @@ const config: DocsThemeConfig = {
       </svg>
     ),
   },
-  docsRepositoryBase: 'https://github.com/earth2travis/docs/',
+  docsRepositoryBase: 'https://github.com/earth2travis/docs/tree/main/',
   footer: {
     text: 'Tune in Travis',
   },
